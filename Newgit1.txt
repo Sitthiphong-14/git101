@@ -1,1 +1,1 @@
-mogify Newgit1.txt in git101
+modify Newgit1.txt in git102
