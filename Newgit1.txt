@@ -1,0 +1,1 @@
+This is Newgit1.txt in git102
